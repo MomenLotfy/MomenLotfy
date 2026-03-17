@@ -155,5 +155,8 @@ company-vision      Security Monitoring Setup         Planning    ████�
 <img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 *"Automate everything. Secure everything. Document everything."*
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-FF6B6B?style=for-the-badge)
+![Codewars](https://www.codewars.com/users/YOUR_USERNAME/badges/large)
+![Winner Trophy](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 </div>
