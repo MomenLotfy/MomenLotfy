@@ -67,7 +67,7 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ## 🚀 Featured Projects
 
-### 🗂️ AutoCloud To-Do — Full Stack DevOps Deployment
+### 🗂️ [AutoCloud To-Do — Full Stack DevOps Deployment](https://github.com/MomenLotfy/autoCloud-to-do)
 > Comprehensive DevOps pipeline for a **task management application**  
 > Automates AWS infrastructure provisioning, environment setup, and production-ready Kubernetes deployment  
 > Full lifecycle management using **Terraform**, **Ansible**, **Jenkins**, **Kubernetes**, **Helm**, and **ArgoCD**  
@@ -115,7 +115,7 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 $ kubectl get learning --all-namespaces
 
 NAMESPACE           NAME                             STATUS      PROGRESS
-certifications      GitHub Foundations               Running     ██████░░░░  60%
+certifications      GitHub Foundations               Running      ██████░░░░  60%
 certifications      AWS Solutions Architect (SAA-C03) Running     ████████░░  80%
 certifications      Certified Kubernetes Admin (CKA)  Running     ██████░░░░  60%
 freelance           AutoCloud To-Do Deployment        Active      ██████████  100%
@@ -150,7 +150,7 @@ company-vision      Security Monitoring Setup         Planning    ████�
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 *"Automate everything. Secure everything. Document everything."*
 
