@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Moamen+Lotfy+%F0%9F%91%8B;DevOps+Engineer;Building+Secure+Infrastructure;Future+DevSecOps+Founder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Moamen+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Building+Secure+Infrastructure;Future+DevSecOps+Founder" alt="Typing SVG" />
 
 <br/>
 
@@ -109,6 +109,23 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ---
 
+## 🌱 Currently Learning
+
+```bash
+$ kubectl get learning --all-namespaces
+
+NAMESPACE           NAME                             STATUS      PROGRESS
+certifications      GitHub Foundations               Running      ██████░░░░  60%
+certifications      AWS Solutions Architect (SAA-C03) Running     ████████░░  80%
+certifications      Certified Kubernetes Admin (CKA)  Running     ██████░░░░  60%
+freelance           AutoCloud To-Do Deployment        Active      ██████████  100%
+freelance           Multi-Env Laravel / Next.js       Active      ██████░░░░  70%
+company-vision      Cloud Infrastructure Strategy     Planning    ███░░░░░░░  30%
+company-vision      DevOps Tooling Automation         Planning    ███░░░░░░░  25%
+company-vision      Security Monitoring Setup         Planning    ████░░░░░░  40%
+```
+
+---
 
 ## 💡 Vision
 
@@ -135,10 +152,8 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
 *"Automate everything. Secure everything. Document everything."*
-
-![Winner Trophy](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-🏆 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MomenLotfy&theme=tokyonight)
 
 </div>
