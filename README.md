@@ -67,7 +67,7 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ## 🚀 Featured Projects
 
-### 🗂️ [AutoCloud To-Do — Full Stack DevOps Deployment](https://github.com/MomenLotfy/autoCloud-to-do)
+### 🗂️ [AutoCloud To-Do — Full Stack DevOps Deployment](https://github.com/MomenLotfy/DEPI-Final-Project)
 > Comprehensive DevOps pipeline for a **task management application**  
 > Automates AWS infrastructure provisioning, environment setup, and production-ready Kubernetes deployment  
 > Full lifecycle management using **Terraform**, **Ansible**, **Jenkins**, **Kubernetes**, **Helm**, and **ArgoCD**  
