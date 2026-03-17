@@ -135,8 +135,6 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
 *"Automate everything. Secure everything. Document everything."*
 
 ![Winner Trophy](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
