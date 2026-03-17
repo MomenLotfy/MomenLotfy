@@ -17,18 +17,18 @@
 ## `whoami`
 
 ```yaml
-name: Moamen
-role: DevOps / Security Engineer → Senior DevSecOps (in progress)
+name: Moamen Lotfy
+role: DevOps Engineer → Senior DevSecOps (in progress)
 location: Cairo, Egypt
 mission: >
-  Building secure, scalable infrastructure and working toward
-  founding a software security services company.
+  Designing reliable, scalable, and automated infrastructure
+  to support modern software systems.
 currently:
-  - Mastering Docker & Kubernetes in production environments
-  - Freelancing on DevOps projects (Mostaqel platform)
-  - Building a DevSecOps-focused portfolio & services website
-  - Preparing for: AWS SAA-C03 | CKA | Terraform | DevSecOps Pro
-mindset: "Security is not a feature — it's the foundation."
+  - Deepening expertise in Docker & Kubernetes for production-grade deployments
+  - Freelancing on advanced DevOps projects (Mostaqel platform)
+  - Developing a portfolio & website showcasing DevOps projects
+  - Preparing for: AWS SAA-C03 | CKA | Terraform
+mindset: "Automation and reliability are the pillars of modern infrastructure."
 ```
 
 ---
@@ -55,11 +55,6 @@ mindset: "Security is not a feature — it's the foundation."
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🗄️ Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💻 Languages & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -72,35 +67,12 @@ mindset: "Security is not a feature — it's the foundation."
 
 ## 🚀 Featured Projects
 
-### 🗂️ Production-Ready Task Manager — Docker Full Stack
-> Multi-service app: **Nginx + Flask ×2 + PostgreSQL + Redis** deployed on Ubuntu  
-> Includes real-world conflict resolution, environment hardening, and production-grade config  
-> `Docker` `Nginx` `Flask` `PostgreSQL` `Redis` `Ubuntu`
+### 🗂️ AutoCloud To-Do — Full Stack DevOps Deployment
+> Comprehensive DevOps pipeline for a **task management application**  
+> Automates AWS infrastructure provisioning, environment setup, and production-ready Kubernetes deployment  
+> Full lifecycle management using **Terraform**, **Ansible**, **Jenkins**, **Kubernetes**, **Helm**, and **ArgoCD**  
+> `Terraform` `Ansible` `Jenkins` `Kubernetes` `Helm` `ArgoCD` `Docker` `AWS`
 
----
-
-### ☸️ Kubernetes Deployment Strategies Lab
-> Blue-Green switching, rolling updates, rollback workflows, and emptyDir storage behavior  
-> Full deployment lifecycle management in a multi-namespace cluster  
-> `Kubernetes` `Deployments` `Blue-Green` `Namespaces` `K8s Storage`
-
----
-
-### 🏢 Chatwoot Self-Hosted Production Environment
-> High-volume messaging infrastructure proposal — multi-container isolation, reverse proxy, persistent storage  
-> `Docker Compose` `Nginx` `PostgreSQL` `Redis` `DevOps Architecture`
-
----
-
-### 🌐 Multi-Environment Laravel / Next.js Isolation
-> Freelance project: staging/production environment separation with container-level isolation  
-> `Docker` `Laravel` `Next.js` `Nginx` `Environment Management`
-
----
-
-### 📋 Mini Task Management System — Bash
-> Full-featured CLI app: CRUD, reporting, input validation, and bonus features — pure Bash  
-> `Bash Scripting` `Linux` `CLI` `Automation`
 
 ---
 
@@ -111,13 +83,13 @@ mindset: "Security is not a feature — it's the foundation."
 
   ⬜  AWS Solutions Architect Associate (SAA-C03)
   ⬜  Certified Kubernetes Administrator (CKA)
-  ⬜  HashiCorp Terraform Associate
+  ⬜  GitHub Foundations
   ⬜  DevSecOps Professional
 
-  ✅  Docker Advanced (Completed)
-  ✅  Kubernetes Fundamentals & Deployments (Completed)
-  ✅  Jenkins CI/CD (Completed)
-  ✅  Linux & Bash Scripting (Completed)
+  ✅  Docker Advanced 
+  ✅  Kubernetes Fundamentals & Deployments 
+  ✅  Jenkins CI/CD 
+  ✅  Linux & Bash Scripting 
 ```
 
 ---
@@ -126,12 +98,12 @@ mindset: "Security is not a feature — it's the foundation."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MomenLotfy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenLotfy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MomenLotfy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
 
 </div>
 
