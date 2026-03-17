@@ -156,4 +156,6 @@ company-vision      Security Monitoring Setup         Planning    ████�
 
 *"Automate everything. Secure everything. Document everything."*
 
+![DevOps Animation](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
+
 </div>
