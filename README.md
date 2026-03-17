@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/Focus-DevSecOps-00D9FF?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-DevOps-00D9FF?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Cairo%2C+Egypt-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Open+To-Freelance%20%26%20Collaboration-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
 
