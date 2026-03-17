@@ -141,4 +141,6 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ![Winner Trophy](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
+🏆 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MomenLotfy&theme=tokyonight)
+
 </div>
