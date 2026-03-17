@@ -55,6 +55,7 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+
 ### 💻 Languages & Scripting
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -72,111 +73,6 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 > Full lifecycle management using **Terraform**, **Ansible**, **Jenkins**, **Kubernetes**, **Helm**, and **ArgoCD**  
 > `Terraform` `Ansible` `Jenkins` `Kubernetes` `Helm` `ArgoCD` `Docker` `AWS`
 
----
-
-## 📁 Projects & Labs Breakdown
-
-| Project | Stack | Type | Status |
-|---|---|---|---|
-| 🗂️ AutoCloud To-Do | Terraform · Ansible · Jenkins · K8s · ArgoCD | DevOps Pipeline | ✅ Complete |
-| 🐳 Task Manager App | Docker · Flask · Nginx · PostgreSQL · Redis | Docker Lab | ✅ Complete |
-| ☸️ K8s Deployment Lab | Kubernetes · Blue-Green · emptyDir | K8s Lab | ✅ Complete |
-| 🏗️ K8s Multi-Tenancy | Namespaces · RBAC · Resource Quotas | K8s Lab | ✅ Complete |
-| 💬 Chatwoot Self-Hosted | Docker · Nginx · PostgreSQL · Redis | Freelance | 🔄 Active |
-| 🌐 Laravel / Next.js Isolation | Docker · Multi-env · Nginx | Freelance | 🔄 Active |
-| 📋 Mini Task Manager (Bash) | Bash · Linux · CRUD | Scripting Project | ✅ Complete |
-| 🌍 Portfolio Website | HTML · CSS · JS · GitHub Pages | Personal | 🔄 Ongoing |
-
----
-
-## 🏗️ Infrastructure Architecture — Task Manager App
-
-```
-                        ┌─────────────────────────────────────┐
-                        │         Docker Network              │
-                        │                                     │
-         HTTP           │   ┌──────────┐                      │
-   ──────────────────►  │   │  Nginx   │  Reverse Proxy       │
-                        │   │ :80/:443 │                      │
-                        │   └────┬─────┘                      │
-                        │        │                            │
-                  ┌─────┼────────┼────────────────┐           │
-                  │     │        │                │           │
-                  ▼     │        ▼                ▼           │
-            ┌─────────┐ │  ┌──────────┐   ┌──────────┐       │
-            │Flask App│ │  │Flask App │   │Flask App │       │
-            │(web:1)  │ │  │(web:2)   │   │  (api)   │       │
-            └────┬────┘ │  └────┬─────┘   └────┬─────┘       │
-                 │      │       │               │             │
-                 └───────────────┬──────────────┘             │
-                        │        │                            │
-                        │   ┌────┴──────┐  ┌──────────┐      │
-                        │   │PostgreSQL │  │  Redis   │      │
-                        │   │  :5432    │  │  :6379   │      │
-                        │   └───────────┘  └──────────┘      │
-                        └─────────────────────────────────────┘
-```
-
----
-
-## 📈 My DevOps Journey
-
-```
-2023 ──────────────────────────────────────────────────────────► Now
-
-  [Q1 2023]           [Q2-Q3 2023]         [Q4 2023]         [2024-Now]
-      │                    │                    │                  │
-  Networking &         Linux &              Docker &           Kubernetes
-  Fundamentals         Bash                 Jenkins            + AWS + K8s
-      │                    │                    │                  │
-  ┌───┴───┐           ┌────┴────┐          ┌────┴────┐        ┌────┴────┐
-  │ OSI   │           │ Bash    │          │ Docker  │        │  K8s    │
-  │ TCP/IP│           │ Scripts │          │ Labs    │        │  Labs   │
-  │ Subn. │           │ Linux   │          │ Compose │        │ Helm    │
-  └───────┘           │ Admin   │          │ Nginx   │        │ ArgoCD  │
-                      └─────────┘          └─────────┘        │ DevSecOps│
-                                                               └─────────┘
-                                                               🎯 CURRENT
-```
-
----
-
-## 💼 Freelance Work
-
-> Currently taking on **DevOps projects** via the **Mostaqel platform**
-
-| Client Project | Description | Key Deliverables |
-|---|---|---|
-| 🏢 Chatwoot Production | Self-hosted high-volume messaging platform | Docker Compose · Nginx SSL · PostgreSQL · Redis · Monitoring |
-| 🌐 Laravel/Next.js Multi-Env | Isolated staging & production environments | Docker Multi-env · Nginx routing · Zero-downtime deploys |
-
-**What I offer as a freelancer:**
-- 🐳 Containerization & Docker Compose setup
-- ☸️ Kubernetes cluster deployment (K3s/K8s)
-- 🔧 CI/CD pipeline design (Jenkins / GitHub Actions)
-- 📊 Monitoring setup (Prometheus + Grafana)
-- 🔒 Basic security hardening & SSL/TLS configuration
-- 📄 Full technical documentation & README
-
----
-
-## 🔐 Security Focus Areas
-
-```
-DevSecOps Pipeline Security
-├── 🔍 SAST (Static Application Security Testing)
-├── 🐳 Container Image Scanning (Trivy / Grype)
-├── 🔑 Secrets Management (Vault / env hardening)
-├── 📋 RBAC & Least Privilege (Kubernetes)
-├── 🔒 Network Policies & Pod Security
-└── 🛡️ Infrastructure Hardening (CIS Benchmarks)
-
-CI/CD Security Gates
-├── Pre-commit hooks
-├── Dependency vulnerability checks
-├── Image signing & verification
-└── Policy-as-Code (OPA / Kyverno)
-```
 
 ---
 
@@ -194,21 +90,6 @@ CI/CD Security Gates
   ✅  Kubernetes Fundamentals & Deployments 
   ✅  Jenkins CI/CD 
   ✅  Linux & Bash Scripting 
-```
-
----
-
-## 🤝 How I Work
-
-```bash
-$ cat working_principles.txt
-
-1. Document everything — if it's not written, it didn't happen
-2. Automate before you repeat — manual steps are future bugs
-3. Security is not a phase — it's built in from day zero
-4. Version control everything — infrastructure, configs, scripts
-5. Monitor proactively — alerts before the client notices
-6. Communicate clearly — technical work needs readable outputs
 ```
 
 ---
@@ -243,19 +124,6 @@ company-vision      Cloud Infrastructure Strategy     Planning    ███░�
 company-vision      DevOps Tooling Automation         Planning    ███░░░░░░░  25%
 company-vision      Security Monitoring Setup         Planning    ████░░░░░░  40%
 ```
-
----
-
-## 📚 Resources I Learn From
-
-| Area | Resources |
-|---|---|
-| 🐳 Docker | KodeKloud · Docker Official Docs · Nigel Poulton's Book |
-| ☸️ Kubernetes | KodeKloud · Kubernetes.io · TechWorld with Nana |
-| ☁️ AWS | Stephane Maarek (Udemy) · AWS Official Docs · ExamPro |
-| 🔒 DevSecOps | OWASP · Linux Foundation · CloudSecDocs |
-| 🛠️ Terraform | HashiCorp Learn · Zeal Vora (Udemy) |
-| 📋 General | DevOps Roadmap · GitHub Repos · Medium Engineering Blogs |
 
 ---
 
