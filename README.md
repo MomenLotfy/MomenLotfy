@@ -114,11 +114,15 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ```bash
 $ kubectl get learning --all-namespaces
 
-NAMESPACE         NAME                        STATUS      PROGRESS
-certifications    aws-saa-c03                 Running     ████████░░  80%
-certifications    cka                         Running     ██████░░░░  60%
-freelance         devsecops-client-projects   Active      ██████████  100%
-company-vision    security-services-brand     Planning    ███░░░░░░░  30%
+NAMESPACE           NAME                             STATUS      PROGRESS
+certifications      GitHub Foundations               Running     ██████░░░░  60%
+certifications      AWS Solutions Architect (SAA-C03) Running     ████████░░  80%
+certifications      Certified Kubernetes Admin (CKA)  Running     ██████░░░░  60%
+freelance           AutoCloud To-Do Deployment        Active      ██████████  100%
+freelance           Multi-Env Laravel / Next.js       Active      ██████░░░░  70%
+company-vision      Cloud Infrastructure Strategy     Planning    ███░░░░░░░  30%
+company-vision      DevOps Tooling Automation         Planning    ███░░░░░░░  25%
+company-vision      Security Monitoring Setup         Planning    ████░░░░░░  40%
 ```
 
 ---
@@ -136,10 +140,9 @@ company-vision    security-services-brand     Planning    ███░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit+Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
-[![Mostaqel](https://img.shields.io/badge/Mostaqel-Hire+Me-FF6B35?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaqel.com/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/momendevops/)
+[![Email](https://img.shields.io/badge/Email-Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momen.elpesa123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit+Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://https://MomenLotfy.github.io/Mo-Ops/)
 
 </div>
 
