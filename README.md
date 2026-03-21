@@ -113,7 +113,8 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ## 💡 Vision
 
 "I aim to build and optimize modern cloud infrastructure through strong DevOps practices — focusing on automation, scalability, and reliable delivery.
-Over time, I plan to evolve this foundation into security-driven engineering by integrating DevSecOps principles."
+Over time, 
+I plan to evolve this foundation into security-driven engineering by integrating DevSecOps principles."
 
 ---
 
