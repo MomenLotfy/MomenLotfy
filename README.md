@@ -112,10 +112,8 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ## 💡 Vision
 
-> *"Most people secure their apps after building them. I want to build security in from day zero — and help others do the same."*
->
-> — Working toward founding a **software security services company** inspired by the SecAlign model:  
-> delivering DevSecOps consulting, infrastructure hardening, and CI/CD security pipelines for modern teams.
+"I aim to build and optimize modern cloud infrastructure through strong DevOps practices — focusing on automation, scalability, and reliable delivery.
+Over time, I plan to evolve this foundation into security-driven engineering by integrating DevSecOps principles."
 
 ---
 
