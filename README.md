@@ -93,19 +93,16 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ```
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MomenLotfy&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenLotfy&layout=compact&theme=tokyonight" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MomenLotfy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenLotfy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MomenLotfy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MomenLotfy&theme=tokyonight" />
+</p>
 
 ---
 
