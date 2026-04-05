@@ -95,14 +95,24 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MomenLotfy&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MomenLotfy&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MomenLotfy&theme=tokyonight" />
-</p>
+<img height="165"
+  src="https://github-readme-stats.vercel.app/api?username=MomenLotfy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenLotfy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=MomenLotfy&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MomenLotfy&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 ---
 
 
