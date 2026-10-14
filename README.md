@@ -1,14 +1,34 @@
+<!-- ============================================================ -->
+<!-- SEO BLOCK — START                                            -->
+<!-- Name (EN): Moamen Lotfy                                      -->
+<!-- Name (AR): مؤمن لطفي                                         -->
+<!-- Role (EN): DevOps Engineer | Future DevSecOps Engineer       -->
+<!-- Role (AR): مهندس ديفوبس | مهندس ديفسيكوبس                    -->
+<!-- Keywords EN: Moamen Lotfy, DevOps Engineer, DevSecOps,       -->
+<!--   Kubernetes, Docker, Terraform, AWS, Jenkins, CI/CD,        -->
+<!--   Linux, Bash, Python, Helm, ArgoCD, Ansible, Cairo, Egypt   -->
+<!-- Keywords AR: مؤمن لطفي, مهندس ديفوبس, كوبيرنيتيس, دوكر,      -->
+<!--   تيرافورم, أمازون, جينكنز, لينكس, الأمن السحابي, القاهرة     -->
+<!-- Location: Cairo, Egypt                                        -->
+<!-- Open To: Freelance & Collaboration                            -->
+<!-- ============================================================ -->
+<!-- SEO BLOCK — END                                              -->
+<!-- ============================================================ -->
+
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Moamen+Lotfy+%F0%9F%91%8B;DevOps+Engineer;Building+Secure+Infrastructure;Future+DevSecOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Moamen+Lotfy+%F0%9F%91%8B;DevOps+Engineer;Building+Secure+Infrastructure;Future+DevSecOps+Engineer" alt="Moamen Lotfy — DevOps Engineer | مؤمن لطفي — مهندس ديفوبس" />
+
+**Moamen Lotfy** — DevOps Engineer building secure, scalable infrastructure.
+**مؤمن لطفي** — مهندس ديفوبس، أبني بنية تحتية آمنة وقابلة للتوسع.
 
 <br/>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/Focus-DevOps-00D9FF?style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Cairo%2C+Egypt-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open+To-Freelance%20%26%20Collaboration-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-DevOps-00D9FF?style=for-the-badge&logo=shield&logoColor=white" alt="Moamen Lotfy — DevOps Focus" />
+<img src="https://img.shields.io/badge/Location-Cairo%2C+Egypt-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Moamen Lotfy — Cairo, Egypt | مؤمن لطفي — القاهرة، مصر" />
+<img src="https://img.shields.io/badge/Open+To-Freelance%20%26%20Collaboration-22C55E?style=for-the-badge&logo=handshake&logoColor=white" alt="Moamen Lotfy — Open to Freelance and Collaboration" />
 
 </div>
 
@@ -65,6 +85,15 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 ---
 
+<!-- SEO: Bilingual about section for search engines -->
+## 🌐 About / نبذة
+
+**EN:** I'm **Moamen Lotfy**, a DevOps Engineer based in Cairo, Egypt, focused on automation, scalability, and reliable delivery of modern cloud systems. Currently evolving toward DevSecOps, combining infrastructure engineering with security-first practices.
+
+**AR:** أنا **مؤمن لطفي**، مهندس ديفوبس مقيم في القاهرة، مصر، متخصص في الأتمتة وقابلية التوسع وتسليم الأنظمة السحابية الحديثة بموثوقية عالية. أتطور حاليًا نحو **DevSecOps** بدمج هندسة البنية التحتية مع مبادئ الأمان أولًا.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🗂️ [AutoCloud To-Do — Full Stack DevOps Deployment](https://github.com/MomenLotfy/DEPI-Final-Project)
@@ -97,20 +126,20 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomenLotfy&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MomenLotfy&theme=tokyonight" alt="Moamen Lotfy — GitHub Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomenLotfy&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MomenLotfy&theme=tokyonight" alt="Moamen Lotfy — Top Languages" />
 
 
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=MomenLotfy&theme=tokyonight&hide_border=true" />
+  src="https://streak-stats.demolab.com?user=MomenLotfy&theme=tokyonight&hide_border=true" alt="Moamen Lotfy — GitHub Streak" />
 
 <br/><br/>
 
 <img width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MomenLotfy&theme=tokyo-night&hide_border=true&area=true" />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MomenLotfy&theme=tokyo-night&hide_border=true&area=true" alt="Moamen Lotfy — Contribution Activity" />
 
 </div>
 
@@ -129,9 +158,9 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/momendevops/)
 <a href="mailto:momen.elpesa123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Reach+Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Moamen Lotfy — Email" />
 </a>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit+Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://momenlotfy.github.io/Mo-Ops/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Moamenlotfy.Ops-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://momenlotfy.github.io/Mo-Ops/)
 
 </div>
 
@@ -139,8 +168,18 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MomenLotfy&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Moamen Lotfy — Profile Views" />
 
 *"Automate everything. Secure everything. Document everything."*
 
 </div>
+
+<!-- ============================================================ -->
+<!-- SEO BLOCK — FOOTER                                            -->
+<!-- Maintained by: Moamen Lotfy                                   -->
+<!-- Profile README optimized for personal SEO                     -->
+<!-- Keywords EN: Moamen Lotfy DevOps, DevSecOps Engineer Egypt,   -->
+<!--   Kubernetes Egypt, Terraform AWS, CI/CD Jenkins, ArgoCD      -->
+<!-- Keywords AR: مؤمن لطفي ديفوبس, مهندس سحابة مصر,               -->
+<!--   كوبيرنيتيس, تيرافورم, أمن سحابي, القاهرة                    -->
+<!-- ============================================================ -->
