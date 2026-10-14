@@ -70,7 +70,9 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub+Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
 ### ☁️ Cloud & Infrastructure as Code
@@ -78,6 +80,7 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
 ### ⚙️ Containers & Orchestration
@@ -86,15 +89,25 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black" alt="K3s" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-### 🔒 Security & Monitoring
+### 📈 Monitoring & Observability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+</p>
+
+### 🔒 DevSecOps & Security
 
 <p align="center">
   <img src="https://img.shields.io/badge/DevSecOps-FF4B4B?style=for-the-badge&logo=shield&logoColor=white" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Gitleaks-1F2937?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks" />
+  <img src="https://img.shields.io/badge/Checkov-7A3CFF?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Checkov" />
 </p>
 
 </div>
@@ -105,7 +118,11 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 <!-- Heading (AR): نبذة -->
 ## 🌐 About
 
-**EN:** I'm **Moamen Lotfy**, a DevOps Engineer based in Cairo, Egypt, focused on automation, scalability, and reliable delivery of modern cloud systems. Currently evolving toward DevSecOps, combining infrastructure engineering with security-first practices.
+Hi, I'm **Moamen Lotfy**, a DevOps & Cloud Engineer based in Egypt, focused on infrastructure automation, cloud engineering, and reliable software delivery.
+
+I work with Linux, Bash scripting, Docker, Kubernetes, CI/CD pipelines, and AWS to automate workflows, manage infrastructure, and improve deployment reliability. I'm continuously expanding my expertise in Infrastructure as Code, monitoring, observability, and DevSecOps, with a strong interest in integrating security into every stage of the software development lifecycle.
+
+I enjoy building practical solutions, exploring modern cloud technologies, and improving the reliability, scalability, and security of infrastructure.
 
 <!-- **AR:** أنا **مؤمن لطفي**، مهندس ديفوبس مقيم في القاهرة، مصر، متخصص في الأتمتة وقابلية التوسع وتسليم الأنظمة السحابية الحديثة بموثوقية عالية. أتطور حاليًا نحو **DevSecOps** بدمج هندسة البنية التحتية مع مبادئ الأمان أولًا. -->
 
@@ -119,23 +136,28 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 > Full lifecycle management using **Terraform**, **Ansible**, **Jenkins**, **Kubernetes**, **Helm**, and **ArgoCD**  
 > `Terraform` `Ansible` `Jenkins` `Kubernetes` `Helm` `ArgoCD` `Docker` `AWS`
 
+### ♟️ [Real-Time Chess Platform — DevSecOps & Cloud Infrastructure](https://github.com/MomenLotfy/End-to-End-Chess-Platform-DevSecOps-Cloud-Infrastructure)
+> Production-oriented infrastructure for a **real-time multiplayer chess platform**  
+> Automates secure CI/CD, AWS infrastructure provisioning, and GitOps-based Kubernetes deployments  
+> End-to-end DevSecOps implementation using **Terraform**, **GitHub Actions**, **Docker**, **Kubernetes**, **Helm**, and **ArgoCD**  
+> `AWS` `Terraform` `GitHub Actions` `Docker` `Kubernetes` `Helm` `ArgoCD` `Redis` `PostgreSQL` `Prometheus` `Grafana` `DevSecOps` `SRE`
+
 
 ---
 
-## 🎯 Certifications Roadmap
+## 🎯 Certifications
 
 ```
+[ COMPLETED ]
+
+  ✅  GitHub Foundations
+  ✅  AWS Certified Cloud Practitioner (CLF-C02)
+  ✅  Docker Professional
+
 [ IN PROGRESS ]
 
-  ⬜  AWS Solutions Architect Associate (SAA-C03)
+  ⬜  AWS Certified Solutions Architect – Associate (SAA-C03)
   ⬜  Certified Kubernetes Administrator (CKA)
-  ⬜  GitHub Foundations
-  ⬜  DevSecOps Professional
-
-  ✅  Docker Advanced 
-  ✅  Kubernetes Fundamentals & Deployments 
-  ✅  Jenkins CI/CD 
-  ✅  Linux & Bash Scripting 
 ```
 
 ---
