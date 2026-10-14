@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Moamen+Lotfy+%F0%9F%91%8B;DevOps+Engineer;Building+Secure+Infrastructure;Future+DevSecOps+Engineer" alt="Moamen Lotfy — DevOps Engineer | مؤمن لطفي — مهندس ديفوبس" />
 
 **Moamen Lotfy** — DevOps Engineer building secure, scalable infrastructure.
-**مؤمن لطفي** — مهندس ديفوبس، أبني بنية تحتية آمنة وقابلة للتوسع.
+<!-- **مؤمن لطفي** — مهندس ديفوبس، أبني بنية تحتية آمنة وقابلة للتوسع. -->
 
 <br/>
 
@@ -86,11 +86,12 @@ mindset: "Automation and reliability are the pillars of modern infrastructure."
 ---
 
 <!-- SEO: Bilingual about section for search engines -->
-## 🌐 About / نبذة
+<!-- Heading (AR): نبذة -->
+## 🌐 About
 
 **EN:** I'm **Moamen Lotfy**, a DevOps Engineer based in Cairo, Egypt, focused on automation, scalability, and reliable delivery of modern cloud systems. Currently evolving toward DevSecOps, combining infrastructure engineering with security-first practices.
 
-**AR:** أنا **مؤمن لطفي**، مهندس ديفوبس مقيم في القاهرة، مصر، متخصص في الأتمتة وقابلية التوسع وتسليم الأنظمة السحابية الحديثة بموثوقية عالية. أتطور حاليًا نحو **DevSecOps** بدمج هندسة البنية التحتية مع مبادئ الأمان أولًا.
+<!-- **AR:** أنا **مؤمن لطفي**، مهندس ديفوبس مقيم في القاهرة، مصر، متخصص في الأتمتة وقابلية التوسع وتسليم الأنظمة السحابية الحديثة بموثوقية عالية. أتطور حاليًا نحو **DevSecOps** بدمج هندسة البنية التحتية مع مبادئ الأمان أولًا. -->
 
 ---
 
